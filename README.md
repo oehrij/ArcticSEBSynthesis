@@ -1,24 +1,24 @@
 # Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget
-## Code associated with the publication by Oehri et al. 2022
-(Publication reference with the full list of authors below)
+## Code associated with the manuscript publication by Oehri et al. 2022
+### [![DOI](https://zenodo.org/badge/341899044.svg)](https://zenodo.org/badge/latestdoi/341899044)
+Manuscript publication and dataset reference with the full list of authors below.
 
 ### Summary
 This repository contains code underlying the data and associated publication "Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget" by Oehri et al. 2022 (see a full list of authors below).
 
 The data contains harmonized, standardized and aggregated in situ observations of SEB components (including net radiation, sensible heat flux, latent heat flux, ground heat flux, net shortwave radiation, net longwave radiation, surface temperature and albedo) on 64 vegetated and glaciated sites north of 60° latitude, in the time period 1994-2021. The SEB components were aggregated to daily mean, minimum and maximum values from hourly and half-hourly measurements available from the monitoring networks FLUXNET (fluxnet.org; FLUXNET2015 dataset), AmeriFlux (ameriflux.lbl.gov), AON (aon.iab.uaf.edu), GC-Net (cires1.colorado.edu/steffen/gcnet) and PROMICE (promice.dk).
 
-Please refer to the publication and associated data for more details.
+Please refer to the Data Manuscript Publication sections for more details.
 
-### Code [![DOI](https://zenodo.org/badge/341899044.svg)](https://zenodo.org/badge/latestdoi/341899044)
+### Code
 #### DataAggregation 
 Code used for data aggregation
 
-
-### Associated data
+### Dataset
 #### Harmonized In Situ Observations of Surface Energy Fluxes and Environmental Drivers at 64 Arctic Vegetation and Glacier Sites (PANGAEA)
 All source data have been deposited in the PANGAEA database under accession code (will be added as soon as available)
 
-### Reference
+### Manuscript Publication
 #### Oehri, J. et al. (2022). Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget. (details will be added soon)
 
 ### Authors
