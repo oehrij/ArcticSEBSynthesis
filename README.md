@@ -2,4 +2,5 @@
 ## by Oehri, J. et al. (2022)
 ### Associated code
 #### 
-content will be added soon...
+Content: Code used for data aggregation
+
