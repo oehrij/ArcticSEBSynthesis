@@ -9,9 +9,10 @@ The data contains harmonized, standardized and aggregated in situ observations o
 
 Please refer to the publication and associated data for more details.
 
-### Code
-#### DataAggregation
+### Code [![DOI](https://zenodo.org/badge/341899044.svg)](https://zenodo.org/badge/latestdoi/341899044)
+#### DataAggregation 
 Code used for data aggregation
+
 
 ### Associated data
 #### Harmonized In Situ Observations of Surface Energy Fluxes and Environmental Drivers at 64 Arctic Vegetation and Glacier Sites (PANGAEA)
