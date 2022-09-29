@@ -1,5 +1,5 @@
-# ArcticSEBSynthesis
-### This open repository contains code used in the "Status and Drivers of the Arctic Surface Energy Budget" project.
-#### author: Jacqueline Oehri
-#### date:   17.05.2021
-content will be added soon...
+# Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget
+## by Oehri, J. et al. (2022)
+### Associated code
+#### 
+Content: Code used for data aggregation
