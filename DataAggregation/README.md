@@ -1,13 +1,6 @@
-#### project      
-ArcticSEBSynthesis
-#### title     
-Data_aggregation
+### Data_aggregation
 #### description  
 Set of scripts showing how data aggregation was performed in the example case of FLUXNET.
-#### publication
-Oehri, J. et al. (2022). Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget. Nature Communications.
-#### author       
-Jacqueline Oehri
 #### content
 The "aggFLUXNET_example.R" script shows how data aggregation was done in the case of downloaded FLUXNET data
 The script uses functions contained in the "aggSetup.R" and "aggFunctions.R" scripts.
