@@ -7,8 +7,6 @@ This repository contains code underlying the data and associated publication "Ve
 
 The data contains harmonized, standardized and aggregated in situ observations of SEB components (including net radiation, sensible heat flux, latent heat flux, ground heat flux, net shortwave radiation, net longwave radiation, surface temperature and albedo) on 64 vegetated and glaciated sites north of 60° latitude, in the time period 1994-2021. The SEB components were aggregated to daily mean, minimum and maximum values from hourly and half-hourly measurements available from the monitoring networks FLUXNET (fluxnet.org; FLUXNET2015 dataset), AmeriFlux (ameriflux.lbl.gov), AON (aon.iab.uaf.edu), GC-Net (cires1.colorado.edu/steffen/gcnet) and PROMICE (promice.dk).
 
-Please refer to the Data Manuscript Publication sections for more details.
-
 ### Code
 #### DataAggregation 
 Code used for data aggregation
