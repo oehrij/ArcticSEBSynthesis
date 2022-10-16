@@ -5,7 +5,7 @@
 ### Summary
 This repository contains code underlying the data and associated publication "Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget" by Oehri et al. 2022 (see a full list of authors below).
 
-The data contains harmonized, standardized and aggregated in situ observations of SEB components (including net radiation, sensible heat flux, latent heat flux, ground heat flux, net shortwave radiation, net longwave radiation, surface temperature and albedo) on 64 vegetated and glaciated sites north of 60° latitude, in the time period 1994-2021. The SEB components were aggregated to daily mean, minimum and maximum values from hourly and half-hourly measurements available from the monitoring networks FLUXNET (fluxnet.org; FLUXNET2015 dataset), AmeriFlux (ameriflux.lbl.gov), AON (aon.iab.uaf.edu), GC-Net (cires1.colorado.edu/steffen/gcnet) and PROMICE (promice.dk).
+The data contains harmonized, standardized and aggregated in situ observations of surface energy budget (SEB) components (including net radiation, sensible heat flux, latent heat flux, ground heat flux, net shortwave radiation, net longwave radiation, surface temperature and albedo) on 64 vegetated and glaciated sites north of 60° latitude, in the time period 1994-2021. The SEB components were aggregated to daily mean, minimum and maximum values from hourly and half-hourly measurements available from the monitoring networks FLUXNET (fluxnet.org; FLUXNET2015 dataset), AmeriFlux (ameriflux.lbl.gov), AON (aon.iab.uaf.edu), GC-Net (cires1.colorado.edu/steffen/gcnet) and PROMICE (promice.dk).
 
 ### Code
 #### DataAggregation 
