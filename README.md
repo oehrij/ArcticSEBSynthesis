@@ -1,5 +1,5 @@
 # Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget
-## Code associated with the manuscript publication by Oehri et al. 2022
+## Code associated with the article by Oehri et al. 2022
 ### [![DOI](https://zenodo.org/badge/341899044.svg)](https://zenodo.org/badge/latestdoi/341899044)
 
 ### Summary
