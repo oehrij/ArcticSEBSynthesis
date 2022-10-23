@@ -12,12 +12,10 @@ The data contains harmonized, standardized and aggregated in situ observations o
 Code used for data aggregation
 
 ### Dataset
-#### Harmonized In Situ Observations of Surface Energy Fluxes and Environmental Drivers at 64 Arctic Vegetation and Glacier Sites
-All source data have been deposited in the PANGAEA database under accession code (will be added as soon as available)
+#### Oehri, J. et al. (2022). Harmonized in-situ observations of surface energy fluxes and environmental drivers at 64 Arctic vegetation and glacier sites. PANGAEA (dataset in review). https://doi.pangaea.de/10.1594/PANGAEA.949792 
 
 ### Manuscript Publication
-#### Oehri, J. et al. (2022). Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget. 
-Details will be added soon...
+#### Oehri, J. et al. (2022). Vegetation Type is an Important Predictor of the Arctic Summer Land Surface Energy Budget. Nature Communications (accepted). https://doi.org/10.1038/s41467-022-34049-3
 
 ### Authors
 ####
