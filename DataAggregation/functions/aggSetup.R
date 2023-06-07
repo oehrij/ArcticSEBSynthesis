@@ -16,7 +16,6 @@ rm(list=ls(all=TRUE))
 ##########################################################
 ## libraries
 library(pascal)         #library(devtools); install_github("pascal-niklaus/pascal/pascal")
-library(pgeo)           #library(devtools); install_github("pascal-niklaus/pascal/pascal")
 library(ggplot2)
 library(RColorBrewer)
 library(tidyverse)

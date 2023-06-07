@@ -16,7 +16,6 @@
 # ##########################################################
 # ## libraries
 # library(pascal)         #library(devtools); install_github("pascal-niklaus/pascal/pascal")
-# library(pgeo)           #library(devtools); install_github("pascal-niklaus/pascal/pascal")
 # library(RColorBrewer)
 # library(tidyverse)
 # library(magick)
